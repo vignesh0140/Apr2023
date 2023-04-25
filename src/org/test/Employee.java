@@ -16,9 +16,15 @@ public class Employee {
 
 	}
 
+	public void branchA() {
+
+		System.out.println("Branch A");
+
+	}
 	private void branchB() {
 
 		System.out.println("Branch B");
 	}
+	
 
 }
