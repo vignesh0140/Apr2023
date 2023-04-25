@@ -16,4 +16,9 @@ public class Employee {
 
 	}
 
+	public void branchA() {
+
+		System.out.println("Branch A");
+	}
+
 }
